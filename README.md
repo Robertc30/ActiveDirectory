@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/eQH6CE9.png"/></p>
+<img src="https://i.imgur.com/1cjIwuq.png"/></p>
    
 
 <h1 align="center">Configuring Active Directory in Azure VMs</h1>
